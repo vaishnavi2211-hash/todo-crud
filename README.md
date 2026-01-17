@@ -1,11 +1,19 @@
+# Todo CRUD App
 
-  # Todo CRUD App
+A fully functional Todo CRUD application built using React, TypeScript, and Vite.
 
-  This is a code bundle for Todo CRUD App. The original project is available at https://www.figma.com/design/zQSPLc2jhlPdje1pvDf450/Todo-CRUD-App.
+## Features
+- Add, edit, delete todos
+- Clean and responsive UI
+- Component-based architecture
+- Modern React setup
 
-  ## Running the code
+## Tech Stack
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+## Running locally
+npm install  
+npm run dev

@@ -5,4 +5,3 @@ export default defineConfig({
   base: "/todo-crud/",
   plugins: [react()],
 })
-
